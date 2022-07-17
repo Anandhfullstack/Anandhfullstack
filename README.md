@@ -6,7 +6,7 @@ Research scholar
 
 I have 2.5 years of experience as a Full stack developer in the field of Web development. Currently, I am pursuing my P.hD at Fu Jen Catholic University. My research interests are in Musical information retrieval, Medical Informatics, Image Synthesis.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Taiwan
 * ✉️  You can contact me at [408068080@mail.fju.edu.tw](mailto:408068080@mail.fju.edu.tw)
 * 🤝  I'm open to collaborating on GAN, Musical or speech synthesis related projects
 
