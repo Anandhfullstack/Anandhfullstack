@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Research scholar
 ----------------
 
-I have 2.5 years of experience as a Full stack developer in the field of Web development. Currently, I am pursuing my P.hD at Fu Jen Catholic University. My research interests are in Musical information retrieval, Medical Informatics, Image Synthesis.
+ Hi, I am pursuing my P.hD at Fu Jen Catholic University. My research interests are in Musical information retrieval, Medical Informatics, Image Synthesis. I have 2.5 years of experience as a Full stack developer in the field of Web development.
 
 * 🌍  I'm based in Taiwan
 * ✉️  You can contact me at [408068080@mail.fju.edu.tw](mailto:408068080@mail.fju.edu.tw)
